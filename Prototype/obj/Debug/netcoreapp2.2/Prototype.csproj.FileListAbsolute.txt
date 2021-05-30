@@ -1,0 +1,14 @@
+C:\Users\wed\source\repos\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.deps.json
+C:\Users\wed\source\repos\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.runtimeconfig.json
+C:\Users\wed\source\repos\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.runtimeconfig.dev.json
+C:\Users\wed\source\repos\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.dll
+C:\Users\wed\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.csprojAssemblyReference.cache
+C:\Users\wed\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\wed\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.RazorAssemblyInfo.cache
+C:\Users\wed\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.RazorAssemblyInfo.cs
+C:\Users\wed\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.AssemblyInfoInputs.cache
+C:\Users\wed\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.AssemblyInfo.cs
+C:\Users\wed\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.RazorTargetAssemblyInfo.cache
+C:\Users\wed\source\repos\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.pdb
+C:\Users\wed\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.dll
+C:\Users\wed\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.pdb
